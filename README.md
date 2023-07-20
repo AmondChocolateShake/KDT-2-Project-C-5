@@ -1,5 +1,8 @@
 Project C 개발 사전 협의
 
+https://www.youtube.com/watch?v=4ip-umB_0eo
+
+
 @목표
 책 리뷰 서비스 개발
 
