@@ -1,4 +1,4 @@
-Project C 개발 사전 협의
+Project C 북스타그램 개발 사전 협의
 
 https://www.youtube.com/watch?v=4ip-umB_0eo
 
